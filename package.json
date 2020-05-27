@@ -1,0 +1,22 @@
+{
+  "name": "trust-prov-claims",
+  "version": "1.0.0",
+  "description": "An claims contract for tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dltxio/trust-prov-claims.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dltxio/trust-prov-claims/issues"
+  },
+  "homepage": "https://github.com/dltxio/trust-prov-claims#readme",
+  "dependencies": {
+    "truffle": "^5.1.27"
+  }
+}
